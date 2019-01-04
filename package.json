@@ -1,0 +1,22 @@
+{
+  "name": "dao-getclass",
+  "version": "1.0.0",
+  "description": "根据传入参数判断类型",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsgu/dao-getclass.git"
+  },
+  "keywords": [
+    "getClass"
+  ],
+  "author": "道心",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsgu/dao-getclass/issues"
+  },
+  "homepage": "https://github.com/jsgu/dao-getclass#readme"
+}
